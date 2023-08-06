@@ -1,5 +1,6 @@
 {
-	"name": "Marcio José Accioli",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Marcio Accioli",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
